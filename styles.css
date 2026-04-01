@@ -229,7 +229,7 @@
             height: 100vh;
             min-height: 600px;
             background-color: var(--bg-page);
-             background-image: url('banner.jpg');
+             background-image: url('banner2.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* 🔥 THIS MAKES IT STICK */
